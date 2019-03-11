@@ -1,8 +1,8 @@
 <?php
 
-namespace techguidesinc\ChuckNorrisJokes\Jokes;
+namespace tfruehe2\ChuckNorrisJokes\Jokes;
 
 class Joke
 {
-  
+
 }

@@ -1,5 +1,5 @@
 {
-    "name": "techguidesinc/chuck-norris-jokes",
+    "name": "tfruehe2/chuck-norris-jokes",
     "description": "Generates a Chuck Norris joke on command",
     "type": "library",
     "license": "MIT",
@@ -7,12 +7,12 @@
     "require": {},
     "autoload" : {
       "psr-4": {
-        "techguidesinc\\ChuckNorrisJokes\\" : "src/"
+        "tfruehe2\\ChuckNorrisJokes\\" : "src/"
       }
     },
     "autoload-dev" : {
       "psr-4": {
-        "techguidesinc\\ChuckNorrisJokes\\Tests\\" : "tests/"
+        "tfruehe2\\ChuckNorrisJokes\\Tests\\" : "tests/"
       }
     },
     "require-dev": {

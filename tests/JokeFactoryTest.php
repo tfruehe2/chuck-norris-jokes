@@ -1,8 +1,8 @@
 <?php
 
-namespace techguidesinc\ChuckNorrisJokes\Tests;
+namespace tfruehe2\ChuckNorrisJokes\Tests;
 
-use techguidesinc\ChuckNorrisJokes\JokeFactory;
+use tfruehe2\ChuckNorrisJokes\JokeFactory;
 use PHPUnit\Framework\TestCase;
 
 class JokeFactoryTest extends TestCase

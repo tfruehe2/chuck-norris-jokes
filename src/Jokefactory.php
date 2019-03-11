@@ -1,6 +1,6 @@
 <?php
 
-namespace techguidesinc\ChuckNorrisJokes;
+namespace tfruehe2\ChuckNorrisJokes;
 
 class JokeFactory
 {
