@@ -1,0 +1,21 @@
+{
+    "name": "techguidesinc/chuck-norris-jokes",
+    "description": "Generates a Chuck Norris joke on command",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload" : {
+      "psr-4": {
+        "techguidesinc\\ChuckNorrisJokes\\" : "src/"
+      }
+    },
+    "autoload-dev" : {
+      "psr-4": {
+        "techguidesinc\\ChuckNorrisJokes\\Tests\\" : "tests/"
+      }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    }
+}
